@@ -70,21 +70,6 @@ export function Projects() {
             </div>
           </div>
         </li>
-        <li className="item bg-[url('/assets/p3.jpeg')] w-[200px] h-[300px] list-none absolute top-1/2 -translate-y-1/2 z-[1] 
-             bg-center bg-cover rounded-[20px] shadow-[inset_0_20px_30px_rgba(255,255,255,0.3)]
-             transition-[transform,left,top,width,height] duration-[750ms] ease-in-out">
-          <div className='content w-[min(30vw,400px)] absolute top-1/2 left-12 -translate-y-1/2 
-            font-[400] text-[0.85rem] font-sans text-white 
-            [text-shadow:0_3px_8px_rgba(0,0,0,0.5)] opacity-0 hidden '>
-            <h2 className="title font-[arial-black] uppercase">"System Threat Forecasting"</h2>
-            <p className="description leading-[1.7] my-4 mb-6 text-[0.8rem]">Built ML model detecting infections with 62% accuracy, achieved top 20% in Kaggle competition. Implements advanced feature engineering and ensemble methods.</p>
-            <div className="flex gap-3">
-              <button onClick={() => window.open("https://github.com/tanishka-26saxena/Spam-Threat-Detection", "_blank")}
-                className="w-fit bg-[rgba(0,0,0,0.1)] text-white border-2 border-white rounded 
-                   p-3 cursor-pointer hover:bg-[rgba(255,255,255,0.2)] transition-colors duration-300">Github link</button>
-            </div>
-          </div>
-        </li>
         <li className="item bg-[url('/assets/p2.jpeg')] w-[200px] h-[300px] list-none absolute top-1/2 -translate-y-1/2 z-[1] 
              bg-center bg-cover rounded-[20px] shadow-[inset_0_20px_30px_rgba(255,255,255,0.3)]
              transition-[transform,left,top,width,height] duration-[750ms] ease-in-out">
@@ -102,6 +87,22 @@ export function Projects() {
             </div>
           </div>
         </li>
+        <li className="item bg-[url('/assets/p3.jpeg')] w-[200px] h-[300px] list-none absolute top-1/2 -translate-y-1/2 z-[1] 
+             bg-center bg-cover rounded-[20px] shadow-[inset_0_20px_30px_rgba(255,255,255,0.3)]
+             transition-[transform,left,top,width,height] duration-[750ms] ease-in-out">
+          <div className='content w-[min(30vw,400px)] absolute top-1/2 left-12 -translate-y-1/2 
+            font-[400] text-[0.85rem] font-sans text-white 
+            [text-shadow:0_3px_8px_rgba(0,0,0,0.5)] opacity-0 hidden '>
+            <h2 className="title font-[arial-black] uppercase">"System Threat Forecasting"</h2>
+            <p className="description leading-[1.7] my-4 mb-6 text-[0.8rem]">Built ML model detecting infections with 62% accuracy, achieved top 20% in Kaggle competition. Implements advanced feature engineering and ensemble methods.</p>
+            <div className="flex gap-3">
+              <button onClick={() => window.open("https://github.com/tanishka-26saxena/Spam-Threat-Detection", "_blank")}
+                className="w-fit bg-[rgba(0,0,0,0.1)] text-white border-2 border-white rounded 
+                   p-3 cursor-pointer hover:bg-[rgba(255,255,255,0.2)] transition-colors duration-300">Github link</button>
+            </div>
+          </div>
+        </li>
+        
         <li className="item bg-[url('/assets/p4.jpeg')] w-[200px] h-[300px] list-none absolute top-1/2 -translate-y-1/2 z-[1] 
              bg-center bg-cover rounded-[20px] shadow-[inset_0_20px_30px_rgba(255,255,255,0.3)]
              transition-[transform,left,top,width,height] duration-[750ms] ease-in-out">
