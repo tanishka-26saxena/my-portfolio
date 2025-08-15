@@ -43,7 +43,7 @@ export function Skills() {
                 max-sm:w-[100px]  m-3 max-sm:mb-8">
       <div class="flip-container hover:scale-105 transition-transform duration-300 hover:shadow-2xl">
        
-        <div class="front bg-center bg-cover relative rounded-lg shadow-lg bg-[url('public/assets/s1.jpeg')]
+        <div class="front bg-center bg-cover relative rounded-lg shadow-lg bg-[url('/assets/s1.jpeg')]
              hover:shadow-xl transition-shadow duration-300">
           <div class="inner text-center absolute inset-0 flex flex-col items-center justify-center text-white">
           </div>
@@ -62,7 +62,7 @@ export function Skills() {
                 max-sm:w-[100px]  m-3 max-sm:mb-8">
       <div class="flip-container hover:scale-105 transition-transform duration-300 hover:shadow-2xl">
        
-        <div class="front bg-center bg-cover relative rounded-lg shadow-lg bg-[url('public/assets/s2.jpeg')]
+        <div class="front bg-center bg-cover relative rounded-lg shadow-lg bg-[url('/assets/s2.jpeg')]
              hover:shadow-xl transition-shadow duration-300">
           <div class="inner text-center absolute inset-0 flex flex-col items-center justify-center text-white">
           </div>
@@ -81,7 +81,7 @@ export function Skills() {
                 max-sm:w-[100px]  m-3 max-sm:mb-8">
       <div class="flip-container hover:scale-105 transition-transform duration-300 hover:shadow-2xl">
        
-        <div class="front bg-center bg-cover relative rounded-lg shadow-lg bg-[url('public/assets/s3.jpeg')]
+        <div class="front bg-center bg-cover relative rounded-lg shadow-lg bg-[url('/assets/s3.jpeg')]
              hover:shadow-xl transition-shadow duration-300">
           <div class="inner text-center absolute inset-0 flex flex-col items-center justify-center text-white">
           </div>
@@ -100,7 +100,7 @@ export function Skills() {
                 max-sm:w-[100px]  m-3 max-sm:mb-8">
       <div class="flip-container hover:scale-105 transition-transform duration-300 hover:shadow-2xl">
        
-        <div class="front bg-center bg-cover relative rounded-lg shadow-lg bg-[url('public/assets/s4.jpeg')]
+        <div class="front bg-center bg-cover relative rounded-lg shadow-lg bg-[url('/assets/s4.jpeg')]
              hover:shadow-xl transition-shadow duration-300">
           <div class="inner text-center absolute inset-0 flex flex-col items-center justify-center text-white">
           </div>
@@ -119,7 +119,7 @@ export function Skills() {
                 max-sm:w-[100px]  m-3 max-sm:mb-8">
       <div class="flip-container hover:scale-105 transition-transform duration-300 hover:shadow-2xl">
        
-        <div class="front bg-center bg-cover relative rounded-lg shadow-lg bg-[url('public/assets/s5.jpeg')]
+        <div class="front bg-center bg-cover relative rounded-lg shadow-lg bg-[url('/assets/s5.jpeg')]
              hover:shadow-xl transition-shadow duration-300">
           <div class="inner text-center absolute inset-0 flex flex-col items-center justify-center text-white">
           </div>
@@ -138,7 +138,7 @@ export function Skills() {
                 max-sm:w-[100px]  m-3 max-sm:mb-8">
       <div class="flip-container hover:scale-105 transition-transform duration-300 hover:shadow-2xl">
        
-        <div class="front bg-center bg-cover relative rounded-lg shadow-lg bg-[url('public/assets/s6.jpeg')]
+        <div class="front bg-center bg-cover relative rounded-lg shadow-lg bg-[url('/assets/s6.jpeg')]
              hover:shadow-xl transition-shadow duration-300">
           <div class="inner text-center absolute inset-0 flex flex-col items-center justify-center text-white">
           </div>
@@ -156,7 +156,7 @@ export function Skills() {
                 max-sm:w-[100px]  m-3 max-sm:mb-8">
       <div class="flip-container hover:scale-105 transition-transform duration-300 hover:shadow-2xl">
        
-        <div class="front bg-center bg-cover relative rounded-lg shadow-lg bg-[url('public/assets/s7.jpeg')]
+        <div class="front bg-center bg-cover relative rounded-lg shadow-lg bg-[url('/assets/s7.jpeg')]
              hover:shadow-xl transition-shadow duration-300">
           <div class="inner text-center absolute inset-0 flex flex-col items-center justify-center text-white">
           </div>
@@ -174,7 +174,7 @@ export function Skills() {
                 max-sm:w-[100px]  m-3 max-sm:mb-8">
       <div class="flip-container hover:scale-105 transition-transform duration-300 hover:shadow-2xl">
        
-        <div class="front bg-center bg-cover relative rounded-lg shadow-lg bg-[url('public/assets/s8.jpeg')]
+        <div class="front bg-center bg-cover relative rounded-lg shadow-lg bg-[url('/assets/s8.jpeg')]
              hover:shadow-xl transition-shadow duration-300">
           <div class="inner text-center absolute inset-0 flex flex-col items-center justify-center text-white">
           </div>
@@ -192,7 +192,7 @@ export function Skills() {
                 max-sm:w-[100px]  m-3 max-sm:mb-8">
       <div class="flip-container hover:scale-105 transition-transform duration-300 hover:shadow-2xl">
        
-        <div class="front bg-center bg-cover relative rounded-lg shadow-lg bg-[url('public/assets/s9.jpeg')]
+        <div class="front bg-center bg-cover relative rounded-lg shadow-lg bg-[url('/assets/s9.jpeg')]
              hover:shadow-xl transition-shadow duration-300">
           <div class="inner text-center absolute inset-0 flex flex-col items-center justify-center text-white">
           </div>
@@ -210,7 +210,7 @@ export function Skills() {
                 max-sm:w-[100px]  m-3 max-sm:mb-8">
       <div class="flip-container hover:scale-105 transition-transform duration-300 hover:shadow-2xl">
        
-        <div class="front bg-center bg-cover relative rounded-lg shadow-lg bg-[url('public/assets/s10.jpeg')]
+        <div class="front bg-center bg-cover relative rounded-lg shadow-lg bg-[url('/assets/s10.jpeg')]
              hover:shadow-xl transition-shadow duration-300">
           <div class="inner text-center absolute inset-0 flex flex-col items-center justify-center text-white">
           </div>
@@ -228,7 +228,7 @@ export function Skills() {
                 max-sm:w-[100px]  m-3 max-sm:mb-8">
       <div class="flip-container hover:scale-105 transition-transform duration-300 hover:shadow-2xl">
        
-        <div class="front bg-center bg-cover relative rounded-lg shadow-lg bg-[url('public/assets/s11.jpeg')]
+        <div class="front bg-center bg-cover relative rounded-lg shadow-lg bg-[url('/assets/s11.jpeg')]
              hover:shadow-xl transition-shadow duration-300">
           <div class="inner text-center absolute inset-0 flex flex-col items-center justify-center text-white">
           </div>
