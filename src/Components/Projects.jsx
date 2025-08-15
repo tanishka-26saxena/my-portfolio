@@ -70,7 +70,7 @@ export function Projects() {
             </div>
           </div>
         </li>
-        <li className="item bg-[url('public/assets/p3.jpeg')] w-[200px] h-[300px] list-none absolute top-1/2 -translate-y-1/2 z-[1] 
+        <li className="item bg-[url('/assets/p3.jpeg')] w-[200px] h-[300px] list-none absolute top-1/2 -translate-y-1/2 z-[1] 
              bg-center bg-cover rounded-[20px] shadow-[inset_0_20px_30px_rgba(255,255,255,0.3)]
              transition-[transform,left,top,width,height] duration-[750ms] ease-in-out">
           <div className='content w-[min(30vw,400px)] absolute top-1/2 left-12 -translate-y-1/2 
@@ -85,7 +85,7 @@ export function Projects() {
             </div>
           </div>
         </li>
-        <li className="item bg-[url('public/assets/p2.jpeg')] w-[200px] h-[300px] list-none absolute top-1/2 -translate-y-1/2 z-[1] 
+        <li className="item bg-[url('/assets/p2.jpeg')] w-[200px] h-[300px] list-none absolute top-1/2 -translate-y-1/2 z-[1] 
              bg-center bg-cover rounded-[20px] shadow-[inset_0_20px_30px_rgba(255,255,255,0.3)]
              transition-[transform,left,top,width,height] duration-[750ms] ease-in-out">
           <div className='content w-[min(30vw,400px)] absolute top-1/2 left-12 -translate-y-1/2 
@@ -102,7 +102,7 @@ export function Projects() {
             </div>
           </div>
         </li>
-        <li className="item bg-[url('public/assets/p4.jpeg')] w-[200px] h-[300px] list-none absolute top-1/2 -translate-y-1/2 z-[1] 
+        <li className="item bg-[url('/assets/p4.jpeg')] w-[200px] h-[300px] list-none absolute top-1/2 -translate-y-1/2 z-[1] 
              bg-center bg-cover rounded-[20px] shadow-[inset_0_20px_30px_rgba(255,255,255,0.3)]
              transition-[transform,left,top,width,height] duration-[750ms] ease-in-out">
           <div className='content w-[min(30vw,400px)] absolute top-1/2 left-12 -translate-y-1/2 
@@ -112,7 +112,7 @@ export function Projects() {
             <p className="description leading-[1.7] my-4 mb-6 text-[0.8rem]">Optimized stock management system improving turnover by 18% and reducing wastage by 25%. Implemented predictive analytics for inventory forecasting and demand planning. Developed comprehensive reporting dashboards and automated alerts for stock levels.</p>
           </div>
         </li>
-        <li className="item bg-[url('public/assets/p5.jpeg')] w-[200px] h-[300px] list-none absolute top-1/2 -translate-y-1/2 z-[1] 
+        <li className="item bg-[url('/assets/p5.jpeg')] w-[200px] h-[300px] list-none absolute top-1/2 -translate-y-1/2 z-[1] 
              bg-center bg-cover rounded-[20px] shadow-[inset_0_20px_30px_rgba(255,255,255,0.3)]
              transition-[transform,left,top,width,height] duration-[750ms] ease-in-out">
           <div className='content w-[min(30vw,400px)] absolute top-1/2 left-12 -translate-y-1/2 
